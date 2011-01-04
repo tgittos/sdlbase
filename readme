@@ -1,0 +1,16 @@
+Dependencies
+--
+
+- CMake version 2.8 or higher
+- OpenGL headers and libs
+- DirectX SDK if building on Windows
+- Visual Studio 2010 if building on Windows
+
+Building on Windows
+--
+- Run build.bat
+- Open build directory
+- Open solution in Visual Studio 2010
+- ???
+- Profit
+
